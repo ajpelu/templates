@@ -1,0 +1,119 @@
+---
+title: "Forest Systems Template: The title should preferably not exceed 20 words" 
+author: First Author^1,2^ ^\*^; Second Author^2^; Third Author^3^
+output:
+  word_document:
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7.5
+    highlight: null
+    reference_docx: forest_systems.docx
+---
+
+> ^1^ First-author affiliation. ^2^ Second-author affilitaion. ^3^ Second-author affilitaion 
+
+> ^\*^ corresponding author [mail@mail.com]
+
+### Author contributions 
+Conceived and designed the experiments: DAB, MTN, AR and JHC. Performed the experiments: DAB, MTN, AR and JHC. Analyzed the data: DAB, MTN, AR and JHC. Contributed reagents/materials/analysis tools: DAB and JHC. Wrote the paper: DAB and JHC. See Author contributions (https://casrai.org/credit/)
+
+### Number of tables and figures 
+This manuscript contains X figures and X tables. 
+
+### Supplementary material 
+Supplementary material (*e.g.* Table S1 and Fig. S1) accompanies the paper on FS's website 
+
+### Running title 
+Running title of the work, used in the heading of the pages of the printed article, should not exceed 90 characters
+
+### Funding  
+Indicate the sources of financing the study, or write: *The author(s) received no specific funding for this work*
+
+### Competing interests
+*The authors have declared that no competing interests exist* 
+
+\newpage 
+
+
+# Abstract 
+
+The abstract length is 250 words maximum. The style must be concise and must not contain references. The structure must include the following parts:
+
+- *(i)* aim of study, set the goal or directly the specific objectives and, describe the relevance of the study;
+
+- *(ii)* area of study, specify the geographic area in which the study has been made;
+
+- *(iii)*	material and methods, describe briefly materials and methods, crops or organisms involved must be identified, as well as soil type, chemicals, or other details which can be important for the interpretation of the results;
+
+- *(iv)*	main results, list and discuss relevant results (including numeric values of experimental results);
+
+- *(v)*	research highlights, one or two closing sentences with most relevant findings and implications.
+
+* For review articles, authors do not need following this structure but in any case length is limited to 250 words.
+
+# Keywords
+
+> keyword1; keyword2; keyword3; keyword4; ... keyword7. 
+
+# Abreviation used 
+Include a list of all non-standard abbreviations used in the paper and their meaning
+
+- HIGHP: High elevation plot
+- LOWP: Low elevation plot  
+
+\newpage 
+# Introduction
+Manuscripts should be written in Times New Roman 12-point font, with 1.5 line spacing. The four margins will be 2.5 cm. Section headings should be written 14-point font in bold print. All pages should be numbered consecutively, and line numbers should be printed on each page (starting with 1 on each page) to facilitate ease of reference for the reviewers. Each paragraph should begin with an indentation of 1-cm. Tables, figures and annexes must be included on separate sheets (but in the same Word document), one per page, following the References section. Use Word compatible software. Separate figure files will be required later if the manuscript is accepted. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Material and methods
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Results
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Discussion
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Acknowledgements
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# References
+
+\newpage 
+
+
+**Table 1**. Table heading in English. 
+
+```{r Tabla1, results='asis', echo=FALSE, cache=FALSE}
+library("knitr")
+kable(head(iris[,1:3]))
+```
+
+\newpage 
+
+
+**Figure 1**. Figure 1. Plot of ...  
+
+```{r fig1, echo=FALSE, cache=FALSE}
+plot(pressure)
+```
+
+
+
+
+
+
+
+
+
+
